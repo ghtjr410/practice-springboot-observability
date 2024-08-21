@@ -31,4 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### 사용자지정 ###
 mysql-data
+/docker/tempo/tempo-data/
